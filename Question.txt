@@ -1,0 +1,29 @@
+1. What are the highest numbers of total layoffs and the highest percentage of layoffs recorded in the dataset?
+
+
+2. What are the top three industries most affected by layoffs?
+
+
+3. Which companies layoffs more than employees than 10k?
+
+
+4. How does the number of layoffs vary by month in all three years?
+
+
+5. Identify companies that have had layoffs in more than three 
+different years.
+
+
+6. What are the top 5 industries with the highest average layoffs per company?
+
+
+7.  What is the average layoff duration (in months) between consecutive layoffs within the same company?
+
+
+8. Are there any trends or patterns in layoffs over time?
+
+
+9.Which companies had the highest number of layoffs each year?
+
+
+10. What is the trend of layoffs over the last five years?
